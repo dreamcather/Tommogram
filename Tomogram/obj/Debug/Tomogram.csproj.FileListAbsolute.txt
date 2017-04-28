@@ -1,0 +1,56 @@
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\Tomogram.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\Tomogram.exe
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\Tomogram.pdb
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\OpenTK.dll
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\OpenTK.pdb
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\OpenTK.xml
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.exe
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\obj\Debug\Tomogram.pdb
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.dll
+c:\users\user\documents\visual studio 2012\Projects\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.xml
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\Tomogram.exe.config
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.exe
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.pdb
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\Tomogram.exe
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\Tomogram.pdb
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\OpenTK.dll
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.dll
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\OpenTK.pdb
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\OpenTK.xml
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.xml
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.csprojResolveAssemblyReference.cache
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+C:\Users\tvc\Desktop\19042017\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.exe.config
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.exe
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.pdb
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.exe
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.pdb
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.dll
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.dll
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.pdb
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.xml
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.xml
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+C:\Users\User\Desktop\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.exe.config
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.exe
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.pdb
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.exe
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\Tomogram.pdb
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.dll
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.dll
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.pdb
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.xml
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\bin\Debug\OpenTK.GLControl.xml
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.csprojResolveAssemblyReference.cache
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache
