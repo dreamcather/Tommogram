@@ -35,6 +35,7 @@ namespace Tomogram
         bool needReload = false;
         bool Texture = true;
         bool Quad = false;
+        bool QuadStrip = false;
         public static int startTF = 0;
         public int widthTF = 4;
 
@@ -69,7 +70,7 @@ namespace Tomogram
             {
                 if (Quad)
                     view.DrawQuads(currentLayer,startTF,widthTF);
-                else
+                if(Texture)
                 {
                     if (needReload)
                     {
@@ -79,6 +80,8 @@ namespace Tomogram
                     }
                     view.drawTexture();
                 }
+                if (QuadStrip)
+                    view.DrawQuadsStrip(currentLayer, startTF, widthTF);
                 glControl1.SwapBuffers();
 
             }
@@ -89,8 +92,10 @@ namespace Tomogram
             currentLayer = trackBar1.Value;
             if (Quad)
                 view.DrawQuads(currentLayer,startTF,widthTF);
-            else
+            if(Texture)
                 needReload = true;
+            if (QuadStrip)
+                view.DrawQuadsStrip(currentLayer, startTF, widthTF);
             glControl1.SwapBuffers();
 
             
@@ -113,14 +118,16 @@ namespace Tomogram
 
         private void quadsBottom_Click(object sender, EventArgs e)
         {
-            Texture = !Texture;
-            Quad = !Quad;
+            Texture = false;
+            Quad = true;
+            QuadStrip = false;
         }
 
         private void textureBotton_Click(object sender, EventArgs e)
         {
-            Texture = !Texture;
-            Quad = !Quad;
+            Texture = true;
+            Quad = false;
+            QuadStrip = false;
         }
 
         private void trackBarStartPoint_Scroll(object sender, EventArgs e)
@@ -135,9 +142,11 @@ namespace Tomogram
             trackBar1_Scroll(sender, e);
         }
 
-       
-
-
-
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            Texture = false;
+            Quad = false;
+            QuadStrip = true;
+        }
     }
 }

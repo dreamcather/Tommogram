@@ -124,5 +124,42 @@ namespace Tomogram
                 }
             GL.End();
         }
+        public void DrawQuadsStrip(int layerNumber, int _startTF, int _widthTF)
+        {
+            GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
+            /*GL.Begin(BeginMode.QuadStrip);
+            short value;
+            value = Bin.array[layerNumber * Bin.X * Bin.Y];
+            GL.Color3(TransferFunction(value, _startTF, _widthTF));
+            GL.Vertex2(0,0);
+
+            value = Bin.array[ Bin.X + layerNumber * Bin.X * Bin.Y];
+            GL.Color3(TransferFunction(value, _startTF, _widthTF));
+            GL.Vertex2(0,1);
+
+            value = Bin.array[1 + Bin.X + layerNumber * Bin.X * Bin.Y];
+            GL.Color3(TransferFunction(value, _startTF, _widthTF));
+            GL.Vertex2(1,1);
+
+            value = Bin.array[1+layerNumber * Bin.X * Bin.Y];
+            GL.Color3(TransferFunction(value, _startTF, _widthTF));
+            GL.Vertex2(1,0);*/
+            for (int x_coord = 1; x_coord < Bin.X - 1; x_coord++)
+            {
+                GL.Begin(BeginMode.QuadStrip);
+                for (int y_coord = 1; y_coord < Bin.Y - 1; y_coord++)
+                {
+                    short value;
+                    value = Bin.array[x_coord + y_coord * Bin.X + layerNumber * Bin.X * Bin.Y];
+                    GL.Color3(TransferFunction(value, _startTF, _widthTF));
+                    GL.Vertex2(x_coord, y_coord);
+
+                    value = Bin.array[x_coord + 1 + (y_coord) * Bin.X + layerNumber * Bin.X * Bin.Y];
+                    GL.Color3(TransferFunction(value, _startTF, _widthTF));
+                    GL.Vertex2(x_coord+1, y_coord);
+                }
+                GL.End();
+            }
+        }
     }
 }

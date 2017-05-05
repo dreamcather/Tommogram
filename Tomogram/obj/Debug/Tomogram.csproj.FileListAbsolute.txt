@@ -54,3 +54,17 @@ D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\
 D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Form1.resources
 D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
 D:\Компьютерная графика\OpenGl\TomogramFIN\Tomogram\Tomogram\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\Tomogram.exe.config
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.exe
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.pdb
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\Tomogram.exe
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\Tomogram.pdb
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\OpenTK.dll
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\OpenTK.GLControl.dll
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\OpenTK.pdb
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\OpenTK.xml
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\bin\Debug\OpenTK.GLControl.xml
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.csprojResolveAssemblyReference.cache
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.Form1.resources
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.Properties.Resources.resources
+C:\Users\tvc\Documents\Visual Studio 2015\Projects\Tommogramma\Tomogram\obj\Debug\Tomogram.csproj.GenerateResource.Cache

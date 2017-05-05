@@ -40,6 +40,7 @@
             this.trackBarWidthOfTF = new System.Windows.Forms.TrackBar();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.renderTypeWindow.SuspendLayout();
@@ -100,6 +101,7 @@
             // 
             // renderTypeWindow
             // 
+            this.renderTypeWindow.Controls.Add(this.radioButton1);
             this.renderTypeWindow.Controls.Add(this.quadsBottom);
             this.renderTypeWindow.Controls.Add(this.textureBotton);
             this.renderTypeWindow.Location = new System.Drawing.Point(676, 515);
@@ -178,6 +180,18 @@
             this.label2.TabIndex = 7;
             this.label2.Text = "Ширина TF";
             // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(70, 17);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(77, 17);
+            this.radioButton1.TabIndex = 8;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "QuadsStrip";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -221,6 +235,7 @@
         private System.Windows.Forms.TrackBar trackBarWidthOfTF;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.RadioButton radioButton1;
     }
 }
 
